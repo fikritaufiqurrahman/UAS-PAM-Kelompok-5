@@ -1,4 +1,4 @@
 # Pengelolaan Data Mahasiswa
 
 ## Our Team
-`#RRGGBB`
+`#RRGGBB` `#0969DA`
