@@ -7,7 +7,7 @@
 - Fikri Taufiqurrahman (1207050039)
 
 <p align="center">
-  <a href="http://if.uinsgd.ac.id/">Teknik Informatika</a><a href="https://uinsgd.ac.id/">UIN Sunan Gunung Djati Bandung</a> 
+  <a href="http://if.uinsgd.ac.id/">Teknik Informatika</a>  <a href="https://uinsgd.ac.id/">UIN Sunan Gunung Djati Bandung</a> 
 </p>
 
 # Business Understanding
