@@ -31,16 +31,16 @@ Market pasar dari aplikasi ini merupakan perguruan tinggi.
 <p>
   Tampilan Home jika datanya masih kosong
 </p>
-<img align="left" width="200" src="https://cdn-images-1.medium.com/max/800/1*ti6Gdu8_WKibtEoc6NC51w.png">
+<img  width="200" src="https://cdn-images-1.medium.com/max/800/1*ti6Gdu8_WKibtEoc6NC51w.png">
 <p>
   Tampilan Untuk Menambah Data
 </p>
-<img align="left" width="200" src="https://cdn-images-1.medium.com/max/640/1*a1qLOoG_R4hZALP0bXCx-w.png">
+<img  width="200" src="https://cdn-images-1.medium.com/max/640/1*a1qLOoG_R4hZALP0bXCx-w.png">
 <p>
   Tampilan home jika terdapat data
 </p>
-<img align="left" width="200" src="https://cdn-images-1.medium.com/max/640/1*qcezno1nz2Qs59qVc2p8fw.png">
+<img  width="200" src="https://cdn-images-1.medium.com/max/640/1*qcezno1nz2Qs59qVc2p8fw.png">
 <p>
   Tampilan untuk Edit dan Delete data (untuk delete tinggal tekan button yang terletak di kanan atas aplikasi)
 </p>
-<img align="left" width="200" src="https://cdn-images-1.medium.com/max/640/1*RDkA771KGyL-Gf_I51iO6w.png"
+<img  width="200" src="https://cdn-images-1.medium.com/max/640/1*RDkA771KGyL-Gf_I51iO6w.png"
