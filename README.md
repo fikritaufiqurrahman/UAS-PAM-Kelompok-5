@@ -23,3 +23,6 @@ Market pasar dari aplikasi ini merupakan perguruan tinggi.
 3. Update	: Ketika mahasiswa yang sudah di create ingin diubah atau dikenakan update maka fitur ini cocok mengubah data mahasiswa tersebut.
 4. Delete	: fitur ini berfungsi untuk menghapus data mahasiswa yang sekiranya tidak dibutuhkan di dalam aplikasi tersebut.
 
+## Tampilan Aplikasi
+##### Tampilan Home 
+![HomePage](https://cdn-images-1.medium.com/max/800/1*ti6Gdu8_WKibtEoc6NC51w.png)
