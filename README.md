@@ -30,7 +30,6 @@ Market pasar dari aplikasi ini merupakan perguruan tinggi.
 ## Tampilan Aplikasi
 ##### Tampilan Home jika datanya masih kosong
 <img align="left" width="300" src="https://cdn-images-1.medium.com/max/800/1*ti6Gdu8_WKibtEoc6NC51w.png">
-![HomePage](https://cdn-images-1.medium.com/max/800/1*ti6Gdu8_WKibtEoc6NC51w.png)
 ##### Tampilan Untuk Menambah Data
 ![TambahData](https://cdn-images-1.medium.com/max/640/1*a1qLOoG_R4hZALP0bXCx-w.png)
 ##### Tampilan home jika terdapat data
