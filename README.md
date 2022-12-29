@@ -1,10 +1,7 @@
 # Pengelolaan Data Mahasiswa
 
 # Our Team
-- Chandra Gunawan (1207050023)
-- Diani Eka Putri (1207050027)
-- Dwi Bagia Santosa (1207050030)
-- Fikri Taufiqurrahman (1207050039)
+![Screenshot (1466)](https://user-images.githubusercontent.com/75468041/209971165-8f53bae8-3afe-4c5f-af3d-92c85e16dea5.png)
 
 <p align="center">
   <a href="http://if.uinsgd.ac.id/">Teknik Informatika</a>  <a href="https://uinsgd.ac.id/">UIN Sunan Gunung Djati Bandung</a> 
