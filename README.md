@@ -1,7 +1,7 @@
 # Pengelolaan Data Mahasiswa
 
 # Our Team
-![Screenshot (1466)](https://user-images.githubusercontent.com/75468041/209971165-8f53bae8-3afe-4c5f-af3d-92c85e16dea5.png)
+![Screenshot (1467)](https://user-images.githubusercontent.com/75468041/209971407-1ad20610-e5db-4dc9-98e2-d34104845d95.png)
 
 <p align="center">
   <a href="http://if.uinsgd.ac.id/">Teknik Informatika</a>  <a href="https://uinsgd.ac.id/">UIN Sunan Gunung Djati Bandung</a> 
