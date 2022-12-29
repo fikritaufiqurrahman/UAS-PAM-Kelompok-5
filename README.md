@@ -28,11 +28,19 @@ Market pasar dari aplikasi ini merupakan perguruan tinggi.
 4. Delete	: fitur ini berfungsi untuk menghapus data mahasiswa yang sekiranya tidak dibutuhkan di dalam aplikasi tersebut.
 
 ## Tampilan Aplikasi
-Tampilan Home jika datanya masih kosong
+<p>
+  Tampilan Home jika datanya masih kosong
+</p>
 <img align="left" width="200" src="https://cdn-images-1.medium.com/max/800/1*ti6Gdu8_WKibtEoc6NC51w.png">
-Tampilan Untuk Menambah Data
+<p>
+  Tampilan Untuk Menambah Data
+</p>
 <img align="left" width="200" src="https://cdn-images-1.medium.com/max/640/1*a1qLOoG_R4hZALP0bXCx-w.png">
-Tampilan home jika terdapat data
+<p>
+  Tampilan home jika terdapat data
+</p>
 <img align="left" width="200" src="https://cdn-images-1.medium.com/max/640/1*qcezno1nz2Qs59qVc2p8fw.png">
-Tampilan untuk Edit dan Delete data (untuk delete tinggal tekan button yang terletak di kanan atas aplikasi)
+<p>
+  Tampilan untuk Edit dan Delete data (untuk delete tinggal tekan button yang terletak di kanan atas aplikasi)
+</p>
 <img align="left" width="200" src="https://cdn-images-1.medium.com/max/640/1*RDkA771KGyL-Gf_I51iO6w.png"
