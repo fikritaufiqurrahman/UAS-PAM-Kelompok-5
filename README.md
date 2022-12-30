@@ -10,13 +10,15 @@
 # Business Understanding
 
 ## Latar Belakang Masalah
-Perkembangan teknologi informasi telah berkembang sangat cepat mengikuti kebutuhan zaman yang memerlukan kecepatan dan ketepatan disegala aspek kehidupan. Dengan kemajuan teknologi yang sangat pesat saat ini, memunculkan suatu ide atau gagasan dari penulis untuk mencoba memudahkan dalam pendataan Penerimaan Mahasiswa Baru. 
+Pada setiap awal tahun ajaran baru pihak instansi pendidikan menyelenggarakan penerimaan peserta didik/mahasiswa baru berdasarkan prinsip objektivitas, transparansi, dan akuntabilitas. Proses penerimaan peserta didik/mahasiswa baru dilaksanakan dengan sistem terbuka dan diketahui oleh masyarakat luas, tidak membedakan asal – usul, suku bangsa, agama, ras, maupun golongan sehingga penyimpangan dapat dihindari dan dapat dipertanggungjawabkan kepada masyarakat, baik menyangkut prosedur maupun hasilnya. Dalam hal pendataan calon peserta didik/mahasiswa baru diperlukan beberapa hal yang cukup banyak dan rumit. Akan tetapi, dengan kemajuan teknologi yang sangat pesat saat ini, memunculkan suatu ide atau gagasan dari penulis untuk mencoba memudahkan dalam pendataan Penerimaan Mahasiswa Baru. 
+
+Dengan demikian, jumlah data pendaftar peserta didik/mahasiswa baru akan terorganisir di setiap tahunnya apakah mengalami peningkatan atau mengalami pernurunan. Selain itu pendataan jumlah pendaftar peserta didik/mahasiswa baru sangat penting dilakukan untuk menggali inovasi-inovasi serta strategi pemasaran yang baik sehingga jumlah pendaftar semakin banyak.
 
 ## Solusi yang ditawarkan
 Penulis mencoba membangun sebuah analisa dan perancangan aplikasi yang akan membantu untuk mempermudah dalam pengolahan data Mahasiswa baru yang meliputi data Calon Mahasiswa, data Jurusan dan pembagian nomor induk mahasiswa dengan tujuan mempermudah dalam pengolahan data lebih optimal dan efektif.
 
 ## Market dari Pengguna Aplikasi
-Market pasar dari aplikasi ini merupakan perguruan tinggi.
+Market pasar dari aplikasi ini merupakan seluruh Instansi Pendidikan.
 
 ## Fitur Aplikasi
 1. Create	: Berfungsi untuk menambahkan atau membuat data mahasiswa baru di dalam aplikasi.
