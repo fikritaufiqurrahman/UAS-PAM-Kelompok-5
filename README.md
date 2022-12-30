@@ -26,6 +26,9 @@ Market pasar dari aplikasi ini merupakan seluruh Instansi Pendidikan.
 3. Update	: Ketika mahasiswa yang sudah di create ingin diubah atau dikenakan update maka fitur ini cocok mengubah data mahasiswa tersebut.
 4. Delete	: fitur ini berfungsi untuk menghapus data mahasiswa yang sekiranya tidak dibutuhkan di dalam aplikasi tersebut.
 
+## Link untuk Pitch Deck
+[Pitch Deck](https://docs.google.com/presentation/d/1Feqve56C-ioHA_ilPFA1SnzXRoRsBqy2/edit#slide=id.p1)
+
 ## Tampilan Aplikasi
 
 ##### Tampilan Home jika datanya masih kosong
